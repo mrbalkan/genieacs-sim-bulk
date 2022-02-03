@@ -1,0 +1,1 @@
+nohup ./genieacs-sim-bulk -w 1000 -p 50 &
