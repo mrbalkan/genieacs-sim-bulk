@@ -1,0 +1,18 @@
+{
+  "name": "genieacs-sim-bulk",
+  "version": "0.9.0",
+  "description": "Modified TR-069 client simulator for GenieACS. Forked from genieacs-sim 0.9.0 (git+https://github.com/zaidka/genieacs-sim.git)",
+  "main": "genieacs-sim-bulk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Murat Balkan",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.9.2"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "bin": "./genieacs-sim-bulk"
+}
